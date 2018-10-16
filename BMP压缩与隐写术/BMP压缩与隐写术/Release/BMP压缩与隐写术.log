@@ -1,0 +1,24 @@
+﻿生成启动时间为 2016/6/27 16:31:03。
+     1>项目“E:\学习\VS2013\projects\BMP压缩与隐写术\BMP压缩与隐写术\BMP压缩与隐写术.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\学习\VS2013\VC\bin\CL.exe /c /Zi /nologo /W0 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\BMP压缩与隐写术.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "BMP压缩与隐写术Dlg.cpp"
+         BMP压缩与隐写术Dlg.cpp
+       Link:
+         E:\学习\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\学习\VS2013\projects\BMP压缩与隐写术\Release\BMP压缩与隐写术.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"E:\学习\VS2013\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"E:\学习\VS2013\projects\BMP压缩与隐写术\Release\BMP压缩与隐写术.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\学习\VS2013\projects\BMP压缩与隐写术\Release\BMP压缩与隐写术.lib" /MACHINE:X86 /SAFESEH "Release\BMP压缩与隐写术.res"
+         "Release\BMP压缩与隐写术.obj"
+         "Release\BMP压缩与隐写术Dlg.obj"
+         Release\ezw.obj
+         Release\huff.obj
+         Release\md5.obj
+         Release\Run.obj
+         Release\stdafx.obj
+         Release\wavelet.obj
+         Release\yinxie.obj
+         正在生成代码
+         已完成代码的生成
+         BMP压缩与隐写术.vcxproj -> E:\学习\VS2013\projects\BMP压缩与隐写术\Release\BMP压缩与隐写术.exe
+     1>已完成生成项目“E:\学习\VS2013\projects\BMP压缩与隐写术\BMP压缩与隐写术\BMP压缩与隐写术.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.67
